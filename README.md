@@ -2,7 +2,8 @@
 This repository implements computer vision tasks (object detection and image classification) to construction datasets
 
 ## Requirements
-Tensorflow 2.10
+Tensorflow 2.10 <br>
+protoc 3.14
 
 ## Files and folders
 The models folders is the Object Detection API folder. One can follow the following tutorial to install the Object Detection API: https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html <br>
